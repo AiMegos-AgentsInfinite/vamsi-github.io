@@ -44,6 +44,7 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 
 ## 🔍 Projects
 - 📊 [Applied AI Solutions][ai-solutions]: Production-ready End-to-end  AI solutions spanning neural networks, computer vision, recommendation systems, and ANNS, with both supervised and unsupervised learning applications.
+- 
 - 🧠 [Generative AI][genai]: Implementation of cutting-edge generative models including large language models, diffusion models, and transformers. Features practical applications in text generation, image synthesis, and conversational AI.
 
 [ai-solutions]: https://github.com/AgentsInfinite/applied-ai-solutions
