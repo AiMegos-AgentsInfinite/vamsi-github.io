@@ -22,7 +22,6 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 
 ## 🚀 Key Achievements
 - Spearheaded development of Testing Center of Excellence
-- Created multiple Centers of Excellence (COEs) demonstrating leadership expertise
 - Led Microsoft Azure AI Search POC, integrating various Microsoft technologies
 - Developed innovative prompt engineering techniques for improved user engagement
 - Successfully integrated Generative AI technologies into existing systems
