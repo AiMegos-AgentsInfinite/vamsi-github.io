@@ -1,5 +1,4 @@
 
-![Ai Agentic Automation](Screenshot 2024-10-25 060530.png)
 ![Image description](Screenshot 2024-10-25 060530.png)
 
 # Vamsi Kethu
