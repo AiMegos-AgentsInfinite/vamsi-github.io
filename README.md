@@ -43,13 +43,13 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 - Financial technology innovation
 
 ## 🔍 Projects
-- 📊 [Data Science & Machine Learning][ds-ml]
+- 📊 [Applied AI Solutions][ai-solutions]
 - 🧠 [Generative AI][genai]
 
-
-[ds-ml]: https://github.com/AgentsInfinite/Data-Science-Machine-Learning
+[ai-solutions]: https://github.com/AgentsInfinite/applied-ai-solutions
 [genai]: https://github.com/AgentsInfinite/GenerativeAI
-Repository containing data science and machine learning projects using Python.
+
+Production-ready AI solutions spanning neural networks, computer vision, recommendation systems, and ANNS, with both supervised and unsupervised learning applications.
 
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
