@@ -41,5 +41,6 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
+- [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
 - [Email](mailto:)
 - [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
