@@ -1,3 +1,7 @@
+
+![Ai Agentic Automation](Screenshot 2024-10-25 060530.png)
+
+
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
