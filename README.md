@@ -3,7 +3,7 @@
 # Welcome to My Portfolio
 
 ## About Me
-Vamsi AI AgentsInfinite
+Vamsi AI AgentsInfinite | Aimegos 
 
 ## Projects
 AI ML Agentic Frameworks, Microsoft AI
