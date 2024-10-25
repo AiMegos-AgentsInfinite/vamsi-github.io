@@ -1,5 +1,5 @@
 
-![Ai Agentic Automation](Screenshot 2024-10-25 060530.png)
+![Ai Agentic Automation]([Screenshot 2024-10-25 060530.png](https://github.com/VamK2/vamsi-github.io/blob/2f76298e49afe29a7fdbc853205e687666384ca3/Screenshot%202024-10-25%20060530.png))
 
 
 # Vamsi Kethu
