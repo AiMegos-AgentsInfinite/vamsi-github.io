@@ -49,11 +49,12 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 [ai-solutions]: https://github.com/AgentsInfinite/applied-ai-solutions
 [genai]: https://github.com/AgentsInfinite/GenerativeAI
 
-### Project Descriptions
+## 🔍 Projects
+- 📊 [Applied AI Solutions][ai-solutions]: Production-ready AI solutions spanning neural networks, computer vision, recommendation systems, and ANNS, with both supervised and unsupervised learning applications.
+- 🧠 [Generative AI][genai]: Implementation of cutting-edge generative models including large language models, diffusion models, and transformers. Features practical applications in text generation, image synthesis, and conversational AI.
 
-**Applied AI Solutions**: Production-ready AI solutions spanning neural networks, computer vision, recommendation systems, and ANNS, with both supervised and unsupervised learning applications.
-
-**Generative AI**: Implementation of cutting-edge generative models including large language models, diffusion models, and transformers. Features practical applications in text generation, image synthesis, and conversational AI.
+[ai-solutions]: https://github.com/AgentsInfinite/applied-ai-solutions
+[genai]: https://github.com/AgentsInfinite/GenerativeAI
 
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
