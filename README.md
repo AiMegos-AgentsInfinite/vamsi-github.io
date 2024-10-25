@@ -3,10 +3,10 @@
 # Welcome to My Portfolio
 
 ## About Me
-[Vamsi AI AgentsInfinite]
+Vamsi AI AgentsInfinite
 
 ## Projects
-[AI ML Agentic Frameworks, Microsoft AI]
+AI ML Agentic Frameworks, Microsoft AI
 
 ## Contact
-[contactUS]
+contactUS
