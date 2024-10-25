@@ -42,9 +42,10 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 - Bridging technology and business strategies
 - Financial technology innovation
 
-## Projects
-- [Data Science & Machine Learning][ds-ml]
-- [Generative AI][genai]
+## 🔍 Projects
+- 📊 [Data Science & Machine Learning][ds-ml]
+- 🧠 [Generative AI][genai]
+
 
 [ds-ml]: https://github.com/AgentsInfinite/Data-Science-Machine-Learning
 [genai]: https://github.com/AgentsInfinite/GenerativeAI
