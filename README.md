@@ -42,10 +42,16 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 - Bridging technology and business strategies
 - Financial technology innovation
 
+## Projects
+- [Data Science & Machine Learning][ds-ml]
+- [Generative AI][genai]
+
+[ds-ml]: https://github.com/AgentsInfinite/Data-Science-Machine-Learning
+[genai]: https://github.com/AgentsInfinite/GenerativeAI
+Repository containing data science and machine learning projects using Python.
+
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
 - [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
-### [Data Science & Machine Learning](https://github.com/AgentsInfinite/Data-Science-Machine-Learning)
-Repository containing data science and machine learning projects using Python.
 - [Email](mailto:)
 - [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
