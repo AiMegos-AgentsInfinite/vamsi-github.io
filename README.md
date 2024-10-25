@@ -1,5 +1,5 @@
 # Vamsi Kethu
-## Ai/ML Architect | Automation Expert | Ai Strategy & Transformation Leader
+## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
 Experienced technology leader specializing in AI/ML solutions with 3+ years of expertise in developing AI prompts and innovative solutions. Passionate about creating human-first AI experiences and driving digital transformation across industries, with strong foundation in business and finance.
 
