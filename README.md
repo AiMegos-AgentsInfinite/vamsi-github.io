@@ -1,3 +1,4 @@
+Here's the modified README with the requested repositories added:
 
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
@@ -48,8 +49,28 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 [ai-solutions]: https://github.com/AgentsInfinite/applied-ai-solutions
 [genai]: https://github.com/AgentsInfinite/GenerativeAI
 
+## 📚 Repositories
+- [microsoft-predictive-ai-lab](https://github.com/VamsiKethu/microsoft-predictive-ai-lab) (Public)
+- [microsoft-azure-ai-predictive-solutions](https://github.com/VamsiKethu/microsoft-azure-ai-predictive-solutions) (Public)
+- [hanumaheavy.agentsInfinite](https://github.com/VamsiKethu/hanumaheavy.agentsInfinite) (Private)
+- [autmavoice.agentsInfinite](https://github.com/VamsiKethu/autmavoice.agentsInfinite) (Private)
+- [automacrew.agentsInfinite](https://github.com/VamsiKethu/automacrew.agentsInfinite) (Private)
+- [automalite.agentsInfinite](https://github.com/VamsiKethu/automalite.agentsInfinite) (Private)
+- [automa.agentsInfinite](https://github.com/VamsiKethu/automa.agentsInfinite) (Private)
+- [readmeContracts](https://github.com/VamsiKethu/readmeContracts) (Public)
+
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
 - [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
 - [Email](mailto:)
 - [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
+
+Citations:
+[1] https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile
+[2] https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
+[3] https://www.sitepoint.com/github-profile-readme/
+[4] https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
+[5] https://www.youtube.com/watch?v=PNDEubp3noo
+[6] https://stateful.com/blog/github-api-list-repositories
+[7] https://www.youtube.com/watch?v=Kjix_6wBr_o
+[8] https://stackoverflow.com/questions/18937792/github-readme-image-embeds-in-private-repo
