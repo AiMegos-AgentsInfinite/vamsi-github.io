@@ -65,4 +65,3 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 - [Email](mailto:)
 - [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
 
-- 
