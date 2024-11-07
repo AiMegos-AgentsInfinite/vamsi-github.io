@@ -70,7 +70,6 @@ This project focuses on human-first AI solutions that drive tangible business va
 ## 📚 Repositories
 - microsoft-predictive-ai-lab (Public)
 - microsoft-azure-ai-predictive-solutions (Public)
-- hanumaheavy.agentsInfinite (Private)
 - autmavoice.agentsInfinite (Private)
 - automacrew.agentsInfinite (Private)
 - automalite.agentsInfinite (Private)
