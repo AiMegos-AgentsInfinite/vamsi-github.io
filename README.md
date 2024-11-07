@@ -77,7 +77,8 @@ This project focuses on human-first AI solutions that drive tangible business va
 - vectorkrew.agentsInfinite (Private)
 - readmeContracts (Public)
 
-### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [AgentsInfinite | AiMegos](https://aimegos.com/)
-- [Email](mailto:your.email@example.com)
+## 📫 Connect With Me
+- [LinkedIn](www.linkedin.com/in/vamsikethu)
+- [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
+- [Email](mailto:)
+- [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
