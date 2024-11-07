@@ -1,3 +1,5 @@
+# readmeContracts
+
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
@@ -49,7 +51,7 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 
 ## 🎯 AI and Machine Learning Solutions
 
-### Objective: Develop and implement cutting-edge Generative AI solutions to enhance business processes and user experiences across various industries.
+## Develop and implement cutting-edge Generative AI solutions to enhance business processes and user experiences across various industries.
 
 ## Key Responsibilities:
 - ✅ Evaluate and benchmark Generative AI models against industry-specific metrics (Accuracy, Fluency, Coherence, Similarity)
@@ -68,6 +70,8 @@ This project focuses on human-first AI solutions that drive tangible business va
 
 
 ## 📚 Repositories
+- [microsoft-azure-ai-predictive-solutions]) (Public)
+- [hanumaheavy.agentsInfinite]
 - microsoft-predictive-ai-lab (Public)
 - microsoft-azure-ai-predictive-solutions (Public)
 - hanumaheavy.agentsInfinite (Private)
@@ -83,3 +87,4 @@ This project focuses on human-first AI solutions that drive tangible business va
 - [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
 - [Email](mailto:)
 - [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
+
