@@ -67,16 +67,16 @@ Implementation of cutting-edge generative models including large language models
 
 This project focuses on human-first AI solutions that drive tangible business value, aiming to ascend beyond limits and expectations.
 
-### 📚 Repositories
-- [microsoft-predictive-ai-lab](https://github.com/yourusername/microsoft-predictive-ai-lab) (Public)
-- [microsoft-azure-ai-predictive-solutions](https://github.com/yourusername/microsoft-azure-ai-predictive-solutions) (Public)
-- [hanumaheavy.agentsInfinite](https://github.com/yourusername/hanumaheavy.agentsInfinite) (Private)
-- [autmavoice.agentsInfinite](https://github.com/yourusername/autmavoice.agentsInfinite) (Private)
-- [automacrew.agentsInfinite](https://github.com/yourusername/automacrew.agentsInfinite) (Private)
-- [automalite.agentsInfinite](https://github.com/yourusername/automalite.agentsInfinite) (Private)
-- [automa.agentsInfinite](https://github.com/yourusername/automa.agentsInfinite) (Private)
-- [vectorkrew.agentsInfinite](https://github.com/yourusername/vectorkrew.agentsInfinite) (Private)
-- [readmeContracts](https://github.com/yourusername/readmeContracts) (Public)
+## 📚 Repositories
+- microsoft-predictive-ai-lab (Public)
+- microsoft-azure-ai-predictive-solutions (Public)
+- hanumaheavy.agentsInfinite (Private)
+- autmavoice.agentsInfinite (Private)
+- automacrew.agentsInfinite (Private)
+- automalite.agentsInfinite (Private)
+- automa.agentsInfinite (Private)
+- vectorkrew.agentsInfinite (Private)
+- readmeContracts (Public)
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
