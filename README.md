@@ -11,6 +11,13 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 - **AI Strategy and Governance** - Wharton Business School
 - **Microsoft Azure AI Certified**
 
+- 🎓 Master of Science in Computer Information Systems
+- 🎓 MBA in Finance and Marketing
+- 📜 AI and Machine Learning Specialization
+- 📚 Management Essentials - Harvard Business School
+- 📚 AI Strategy and Governance - Wharton Business School
+- 🏅 Microsoft Azure AI Certified
+
 ## 💻 Technical Expertise
 - **AI/ML:** Gen AI, AI MultiAgents, AiBots, Deep Learning, TinyML
 - **Cloud & Tools:** Microsoft Azure OpenAI, Azure IoT, Azure DevOps
@@ -46,6 +53,25 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 
 [ai-solutions]: https://github.com/AgentsInfinite/applied-ai-solutions
 [genai]: https://github.com/AgentsInfinite/GenerativeAI
+
+## 🎯 AI and Machine Learning Solutions
+
+### Objective: Develop and implement cutting-edge Generative AI solutions to enhance business processes and user experiences across various industries.
+
+## Key Responsibilities:
+- ✅ Evaluate and benchmark Generative AI models against industry-specific metrics (Accuracy, Fluency, Coherence, Similarity)
+- ✏️ Design and create bespoke Generative AI automation solutions tailored to client use cases
+- 🎤 Implement multimodal AI applications including Voice AI, Text-to-Speech, and Speech-to-Text
+- 🤖 Develop AI-powered Bots and Virtual Assistants to streamline customer interactions
+- 🔄 Integrate Generative AI capabilities into existing automation frameworks
+- 🤝 Collaborate with SMB and SME leadership teams in product development and manufacturing sectors
+
+## Achievements:
+- 🌟 Successfully delivered human-centric AI solutions that optimized brand, employee, and customer experiences
+- 🚀 Provided transformative strategies to enhance business operations and leadership confidence
+- 🙌 Contributed to elevating human potential with Generative AI
+
+This project focuses on human-first AI solutions that drive tangible business value, aiming to ascend beyond limits and expectations.
 
 
 ## 📚 Repositories
