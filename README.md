@@ -1,14 +1,7 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsikethu)
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamsi%20Kethu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vamsikethu)
-
-[View Full LinkedIn Profile](https://www.linkedin.com/in/vamsikethu)
-
-[AgentsInfinite | AiMegos](https://agentsinfinite.com/)
-
-[Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsikethu)
 
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
