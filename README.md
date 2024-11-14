@@ -1,3 +1,4 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsikethu)
 
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
