@@ -23,26 +23,6 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 - Integrating open-source projects with AWS, Azure, and GCP.
 
 
-
-• AI Strategy & Governance, AI for Business - Wharton Online.
-• Implementing Microsoft's Responsible AI principles: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
-• Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, 
-• Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Admin & Reports Certified. 13 Tricentis TOSCA Certifications.
-• Expertise: Computer Vision, AFS Vision, GIS, Esri, PolarisWeb, ArcGIS.
-• Skills: AML, Fraud Detection, Churn & Loan Default Prediction, ACH/NACHA, Credit Card Processing.
-• Experience: Federal, and State projects (Justice, Law Enforcement, Fingerprinting, Facial Recognition, EMS, interstate investigation).
-• Integrating open-source projects with AWS, Azure, and GCP.
-
-- **Over 6 years of hands-on experience in Artificial Intelligence and Machine Learning**, plus **3+ years in Generative AI**.
-- AI Strategy & Governance - Wharton Online.
-- Integrating open-source projects with AWS, Azure, and GCP.
-- Extensive experience in Commercial, Federal, and State government projects, including Justice, Law Enforcement, Fingerprinting, Facial Recognition, EMS, and interstate investigation systems.
-- Expertise in Computer Vision services, AFS Vision, GIS, Esri, PolarisWeb, and ArcGIS.
-- Experience in Health Care, Life Insurance, Consumer & Retail Billing, Fraud detection, Customer Churn, loan defaulter prediction, ACH, NACHA, Credit Card Processing and Banking domains.
-- Implementation of Microsoft's Responsible AI principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
-- Vast data analytics experience using Microsoft AutoML, Knime, RapidMiner, DataRobot, IBM Cognos, OFS, Tableau, and MS SQL.
-- Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Certified Admin. 13 Tricentis TOSCA Automation Certifications.
-
 ## Compliance Proficiency:
 HIPAA, ADA, PII (Personally Identifiable Information), IP (Intellectual Property), PCI (Payment Card Industry), FCRA (Fair Credit Reporting Act), GBLA (Gramm-Leach-Bliley Act), SOX (Sarbanes-Oxley Act), BSA (Bank Secrecy Act), KYC (Know Your Customer), AML (Anti-Money Laundering), GDPR (General Data Protection Regulation), Data Privacy, Data Security, AI Security, OWASP guidelines, external audits, and Microsoft Responsible AI Principles and Standards.
 
