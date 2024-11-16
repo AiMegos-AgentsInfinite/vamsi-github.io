@@ -5,14 +5,21 @@
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
 # Professional Profile
-Experienced IT professional with 16+ years in 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗜𝗧 𝗮𝗻𝗱 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻, including Leadership roles, specializing in 𝗔𝗜/𝗠𝗟 and 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 solutions. Proven track record in Health & Life Insurance, Retail & Commercial Billing, Finance, Banking, Ag Credit & Co-Ops, domains across startups, SMBs, large corporations, enterprises, and governmental sectors.
-
-I bridge open-source innovation with enterprise AI platforms to create human-first and responsible AI experiences
-Experienced technology leader with 16+ years in IT and automation, specializing in **Artificial Intelligence** and **Machine Learning solutions**.
+Experienced IT professional with 16+ years in 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗜𝗧 𝗮𝗻𝗱 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻, including Leadership roles, specializing in **Artificial Intelligence**, **Machine Learning solutions**. and 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 solutions. Proven track record in Health & Life Insurance, Retail & Commercial Billing, Finance, Banking, Ag Credit & Co-Ops, domains across startups, SMBs, large corporations, enterprises, and governmental sectors.
 
 I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create **human-first AI** experiences.
 
 ## Key Expertise:
+
+• 𝗢𝘃𝗲𝗿 𝟲 𝘆𝗲𝗮𝗿𝘀 of 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in 𝗔𝗜/𝗠𝗟 plus, 𝟯+ 𝘆𝗲𝗮𝗿𝘀 in 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜.
+• AI Strategy & Governance, AI for Business - Wharton Online.
+• Implementing Microsoft's Responsible AI principles: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
+• Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, 
+• Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Admin & Reports Certified. 13 Tricentis TOSCA Certifications.
+• Expertise: Computer Vision, AFS Vision, GIS, Esri, PolarisWeb, ArcGIS.
+• Skills: AML, Fraud Detection, Churn & Loan Default Prediction, ACH/NACHA, Credit Card Processing.
+• Experience: Federal, and State projects (Justice, Law Enforcement, Fingerprinting, Facial Recognition, EMS, interstate investigation).
+• Integrating open-source projects with AWS, Azure, and GCP.
 
 - **Over 6 years of hands-on experience in Artificial Intelligence and Machine Learning**, plus **3+ years in Generative AI**.
 - AI Strategy & Governance - Wharton Online.
