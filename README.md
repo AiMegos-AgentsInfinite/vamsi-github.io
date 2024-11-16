@@ -11,7 +11,19 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 
 ## Key Expertise:
 
-• 𝗢𝘃𝗲𝗿 𝟲 𝘆𝗲𝗮𝗿𝘀 of 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in 𝗔𝗜/𝗠𝗟 plus, 𝟯+ 𝘆𝗲𝗮𝗿𝘀 in 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜.
+- **Over 6 years of hands-on experience in Artificial Intelligence and Machine Learning**, plus **3+ years in Generative AI**.
+  
+- AI Strategy & Governance, AI for Business - Wharton Online.
+- Implementing Microsoft's Responsible AI principles: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
+- Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, 
+- Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Admin & Reports Certified. 13 Tricentis TOSCA Certifications.
+- Expertise: Computer Vision, AFS Vision, GIS, Esri, PolarisWeb, ArcGIS.
+- Skills: AML, Fraud Detection, Churn & Loan Default Prediction, ACH/NACHA, Credit Card Processing.
+- Experience: Federal, and State projects (Justice, Law Enforcement, Fingerprinting, Facial Recognition, EMS, interstate investigation).
+- Integrating open-source projects with AWS, Azure, and GCP.
+
+
+
 • AI Strategy & Governance, AI for Business - Wharton Online.
 • Implementing Microsoft's Responsible AI principles: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
 • Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, 
