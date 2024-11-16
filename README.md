@@ -5,7 +5,9 @@
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
 # Professional Profile
+Experienced IT professional with 16+ years in 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗜𝗧 𝗮𝗻𝗱 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻, including Leadership roles, specializing in 𝗔𝗜/𝗠𝗟 and 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 solutions. Proven track record in Health & Life Insurance, Retail & Commercial Billing, Finance, Banking, Ag Credit & Co-Ops, domains across startups, SMBs, large corporations, enterprises, and governmental sectors.
 
+I bridge open-source innovation with enterprise AI platforms to create human-first and responsible AI experiences
 Experienced technology leader with 16+ years in IT and automation, specializing in **Artificial Intelligence** and **Machine Learning solutions**.
 
 I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create **human-first AI** experiences.
