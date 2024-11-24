@@ -96,6 +96,13 @@ A Generative AI assistant creating visually engaging, cinematic-quality company 
 - Integrate Generative AI capabilities into existing automation frameworks
 - Collaborate with SMB and SME leadership teams in product development and manufacturing sectors
 
+- **Evaluate and benchmark Generative AI models** against industry-specific metrics such as **accuracy** (measured by **precision**, **recall**, **F1 score**, **MAE**, and **MSE**), **fluency** (measured by **perplexity**, **BLEU**, and **METEOR**), **coherence** (measured by **coherence score**, **readability scores**, and **topic consistency**), **similarity** (measured by **cosine similarity**, **Jaccard similarity**, **edit distance**, and **SSIM**), and **relevance** (measured by **contextual appropriateness** and **domain-specific applicability**), which are tailored to the unique requirements of each sector.
+- **Design and create bespoke Generative AI automation solutions** tailored to client use cases
+- **Implement multimodal AI applications** including **Voice AI**, **Text-to-Speech**, and **Speech-to-Text**
+- **Develop AI-powered Bots** and **Virtual Assistants** to streamline customer interactions
+- **Integrate Generative AI capabilities** into existing automation frameworks
+- **Collaborate with SMB and SME leadership teams** in product development and manufacturing sectors
+
 **Achievements:**
 - Successfully delivered human-centric AI solutions that optimized brand, employee, and customer experiences
 - Provided transformative strategies to enhance business operations and leadership confidence
