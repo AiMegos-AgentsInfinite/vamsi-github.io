@@ -15,7 +15,7 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
   
 - AI Strategy & Governance, AI for Business - Wharton Online.
 - Implementing Microsoft's Responsible AI principles: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
-- Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, 
+- Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, M365 Copilot. 
 - Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Admin & Reports Certified. 13 Tricentis TOSCA Certifications.
 - Expertise: Computer Vision, AFS Vision, GIS, Esri, PolarisWeb, ArcGIS.
 - Skills: AML, Fraud Detection, Churn & Loan Default Prediction, ACH/NACHA, Credit Card Processing.
@@ -45,9 +45,9 @@ I thrive on challenges and am keen to connect with like-minded professionals and
 
 ### 💻 Technical Expertise
 - **AI/ML:** Gen AI, AI MultiAgents, AiBots, Deep Learning, TinyML
-- **Cloud & Tools:** Microsoft Azure OpenAI, Azure IoT, Azure DevOps
+- **Cloud & Tools:** Microsoft Azure OpenAI, Microsfot Power Automate, Power Apps Azure, Microsoft Power Bi, Microsoft IoT, Azure DevOps
 - **Development:** Python, C#, .NET Framework, Selenium, RestSharp API
-- **Platforms:** Power Platform, Copilot, ChatGPT
+- **Platforms:** Power Platform, Power Apps, Power BI, Microsoft Copilot Studio, M365 Copilot, Poe.
 - **Specialties:** Computer Vision, NLP, RPA, QA Automation
 - **Data:** Data Science, Data Analytics, Predictive Modeling
 - **Business:** Financial Analysis, Market Research, Strategic Planning
