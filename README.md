@@ -2,7 +2,7 @@
 [![Vamsi Kethu's LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Vamsi%20Kethu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsikethu?trk=profile-badge)
 
 # Vamsi Kethu
-## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
+## Microsoft Azure AI Certified dev | AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
 # Professional Profile
 Experienced IT professional with 16+ years in **hands-on IT and automation**, including Leadership roles, specializing in **Artificial Intelligence**, **Machine Learning solutions** and **Generative AI** solutions. Proven track record in Health & Life Insurance, Retail & Commercial Billing, Finance, Banking, Ag Credit & Co-Ops, domains across startups, SMBs, large corporations, enterprises, and governmental sectors.
@@ -47,7 +47,7 @@ I thrive on challenges and am keen to connect with like-minded professionals and
 - **AI/ML:** Gen AI, AI MultiAgents, AiBots, Deep Learning, TinyML
 - **Cloud & Tools:** Microsoft Azure OpenAI, Microsfot Power Automate, Power Apps Azure, Microsoft Power Bi, Microsoft IoT, Azure DevOps
 - **Development:** Python, C#, .NET Framework, Selenium, RestSharp API
-- **Platforms:** Power Platform, Power Apps, Power BI, Microsoft Copilot Studio, M365 Copilot, Poe.
+- **Platforms:** Power Platform, Power Apps, Power BI, Microsoft Copilot Studio, M365 Copilot, Microfost Dynamics 365 Copilot, Poe.
 - **Specialties:** Computer Vision, NLP, RPA, QA Automation
 - **Data:** Data Science, Data Analytics, Predictive Modeling
 - **Business:** Financial Analysis, Market Research, Strategic Planning
