@@ -41,7 +41,7 @@ I thrive on challenges and am keen to connect with like-minded professionals and
 - AI and Machine Learning Specialization
 - Management Essentials - Harvard Business School
 - AI Strategy and Governance - Wharton Business School
-- Microsoft Azure AI Certified
+- Microsoft Certified: Azure AI Engineer Associate
 
 ### 💻 Technical Expertise
 - **AI/ML:** Gen AI, AI MultiAgents, AiBots, Deep Learning, TinyML
