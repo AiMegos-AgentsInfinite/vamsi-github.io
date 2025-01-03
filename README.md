@@ -90,9 +90,9 @@ A Generative AI assistant creating visually engaging, cinematic-quality company 
 
 **Key Responsibilities:**
 - **Microsoft Copilot Customization**: Copilots in **Microsoft Azure OpenAI**, **M365 Copilots** for end-user content creation needs, Create **AI Agents in Copilot Studio**.
-- 
+
 - **Microsoft Power Automate (RPA), Power Apps, Power Virtual Agents** customization.
-- 
+
 - **LLMS Testing and AI in Test Automation**.
 
 - **AI language services**, **Natural Language Processing**, and **Generative AI**.
