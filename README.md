@@ -89,11 +89,18 @@ A Generative AI assistant creating visually engaging, cinematic-quality company 
 **Objective:** Develop and implement cutting-edge Generative AI solutions to enhance business processes and user experiences across various industries.
 
 **Key Responsibilities:**
-- **Evaluate and benchmark Generative AI models** against industry-specific metrics such as **accuracy** (measured by **precision**, **recall**, **F1 score**, **MAE**, and **MSE**), **fluency** (measured by **perplexity**, **BLEU**, and **METEOR**), **coherence** (measured by **coherence score**, **readability scores**, and **topic consistency**), **similarity** (measured by **cosine similarity**, **Jaccard similarity**, **edit distance**, and **SSIM**), and **relevance** (measured by **contextual appropriateness** and **domain-specific applicability**), which are tailored to the unique requirements of each sector.
-- **Design and create bespoke Generative AI automation solutions** tailored to client use cases
-- **Implement multimodal AI applications** including **Voice AI**, **Text-to-Speech**, and **Speech-to-Text**
-- **Develop AI-powered Bots** and **Virtual Assistants** to streamline customer interactions
-- **Integrate Generative AI capabilities** into existing automation frameworks
+- **Microsoft Copilot Customization**: Copilots in **Microsoft Azure OpenAI**, **M365 Copilots** for end-user content creation needs, Create **AI Agents in Copilot Studio**.
+- 
+- **Microsoft Power Automate (RPA), Power Apps, Power Virtual Agents** customization.
+- 
+- **LLMS Testing and AI in Test Automation**.
+
+- **AI language services**, **Natural Language Processing**, and **Generative AI**.
+
+- **Custom AI Solutions**: We design and deploy bespoke Generative AI automation solutions tailored to client-specific use cases.
+
+- **Multimodal AI Integration**: We implement multimodal AI applications, including Voice AI, Text-to-Speech, and Speech-to-Text, develop AI-powered bots and virtual assistants, and integrate Generative AI into automation frameworks, collaborating with SMB and SME leaders in product development and manufacturing.
+
 - **Collaborate with SMB and SME leadership teams** in product development and manufacturing sectors
 
 **Achievements:**
