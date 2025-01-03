@@ -1,4 +1,3 @@
-
 [![Vamsi Kethu's LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Vamsi%20Kethu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsikethu?trk=profile-badge)
 
 # Vamsi Kethu
@@ -41,7 +40,10 @@ I thrive on challenges and am keen to connect with like-minded professionals and
 - PG Program in AI and Machine Learning Specialization - University of Austin, Texas
 - Management Essentials - Harvard Business School
 - AI Strategy and Governance - Wharton Business School
-- Microsoft Certified: Azure AI Engineer Associate - Microsoft
+- Microsoft Certified: Azure AI Engineer Associate (Microsoft AI-102)
+  
+  ![image](https://github.com/user-attachments/assets/ba5aac66-c163-41b9-a3e0-5626f4b79531)
+
 
 ### 💻 Technical Expertise
 - **AI/ML:** Gen AI, AI MultiAgents, AiBots, Deep Learning, TinyML
