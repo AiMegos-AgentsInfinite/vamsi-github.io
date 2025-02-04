@@ -131,29 +131,18 @@ This project focuses on human-first AI solutions that drive tangible business va
 - PromptAlchemy (Public)
 - Logo-Alchemy-AI (Public)
 
-<section id="MultiCloud-DevOps-AI-Challenge-Badges">
-  <h2>MultiCloud DevOps &amp; AI Challenge Badges</h2>
-  <div class="badge-container">
-    <img class="badge-image" src="https://github.com/AiMegos-AgentsInfinite/vamsi-github.io/blob/b0cae45ab7366289c7e8bb4533494d9f75432c83/EN_MDAC_VIP_BADGE_CLAUDE.png" alt="BADGE_CLAUDE">
-    <!-- Add more image tags for additional badges -->
-  </div>
-</section>
+## MultiCloud DevOps & AI Challenge Badges
 
-<style>
-  .badge-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .badge-image {
-    width: 30px;  /* Adjust the width to make it smaller */
-    height: 30px; /* Adjust the height to make it smaller */
-    margin: 5px;
-  }
-</style>
-
-<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_CLAUDE.png" width="200" height="200" alt="Anthropic Claude AI">
+<p align="center">
+<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_AWS.png" width="200" height="200" alt="AWS Badge">
+<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_AZURE.png" width="200" height="200" alt="Azure Badge">
+<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_CLAUDE.png" width="200" height="200" alt="Claude AI Badge">
+<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_DOCKER.png" width="200" height="200" alt="Docker Badge">
+<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_GCP.png" width="200" height="200" alt="GCP Badge">
+<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_KUBERNETES.png" width="200" height="200" alt="Kubernetes Badge">
+<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_OPENAI.png" width="200" height="200" alt="OpenAI Badge">
+<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_TERRAFORM.png" width="200" height="200" alt="Terraform Badge">
+</p>
 
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
