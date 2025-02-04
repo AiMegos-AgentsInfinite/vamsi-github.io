@@ -153,6 +153,8 @@ This project focuses on human-first AI solutions that drive tangible business va
   }
 </style>
 
+<img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_CLAUDE.png" width="200" height="200" alt="Anthropic Claude AI">
+
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
 - [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
