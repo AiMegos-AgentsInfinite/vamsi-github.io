@@ -1,3 +1,7 @@
+## Name: applied-ai-solutions
+### Description: Production-ready End-to-end AI solutions spanning neural networks, computer vision, recommendation systems, and ANNS, with both supervised and unsupervised learning applications.
+---
+
 [![Vamsi Kethu's LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Vamsi%20Kethu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsikethu?trk=profile-badge)
 
 # Vamsi Kethu
@@ -131,7 +135,7 @@ This project focuses on human-first AI solutions that drive tangible business va
 - PromptAlchemy (Public)
 - Logo-Alchemy-AI (Public)
 
-## MultiCloud DevOps & AI Challenge Badges
+## MultiCloud DevOps & AI Challenge 2025 Badges
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_AWS.png" width="200" height="200" alt="AWS Badge">&nbsp;
