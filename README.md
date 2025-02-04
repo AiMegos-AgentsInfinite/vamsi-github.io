@@ -15,12 +15,13 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 - **Microsoft Azure AI Certified AI Engineer Associate**
 - AI Strategy & Governance, AI for Business - Wharton Online.
 - Implementing Microsoft's Responsible AI principles: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
-- Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, M365 Copilot. 
-- Microsoft Azure AI certified with over 312 badges and 66+ trophies.
-- Salesforce Trailhead Mountaineer: 37 Badges 30,750 Points 5 Trails, includes **AgentForce and Einstein Copilot**
-- IBM Cognos Admin & Reports Certified.
+- Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, M365 Copilot.
+- **Power Platform + Power BI + M365 Copilot + Dynamics 365 Copilot + Copilot Studio AI Agents Customizations**
+- **Microsoft Azure AI certified with over 312 badges and 66+ trophies.**
+- **Salesforce Trailhead Mountaineer: 37 Badges 30,750 Points 5 Trails**, includes **AgentForce and Einstein Copilot**
+- **IBM Cognos Admin & Reports Certified.**
 - Received training in TOGAF, Zachman.
-- 13 Tricentis TOSCA Certificationss, including Tricentis **TOSCA Architecture and RPA Certification**.
+- **13 Tricentis TOSCA Certificationss, including Tricentis** **TOSCA Architecture and RPA Certification**.
 - Automation and Testing: RPA Automation using various tools and frameworks; QA Automation
 - Expertise: Computer Vision, AFS Vision, GIS, Esri, PolarisWeb, ArcGIS.
 - Skills: AML, Fraud Detection, Churn & Loan Default Prediction, ACH/NACHA, Credit Card Processing.
