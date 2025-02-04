@@ -147,9 +147,9 @@ This project focuses on human-first AI solutions that drive tangible business va
   }
 
   .badge-image {
-    max-width: 150px;
-    height: auto;
-    margin: 10px;
+    width: 50px;  /* Adjust the width to make it stamp-sized */
+    height: 50px; /* Adjust the height to make it stamp-sized */
+    margin: 5px;
   }
 </style>
 
