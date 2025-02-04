@@ -132,8 +132,8 @@ This project focuses on human-first AI solutions that drive tangible business va
 - Logo-Alchemy-AI (Public)
 
 <section id="MultiCloud DevOps & AI Challenge Badges">
-  <h2>Professional Badges</h2>
-  <img src="https://example.com/badge1.png" alt="Badge 1 Description">
+  <h2>MultiCloud DevOps & AI Challenge Badges</h2>
+  <img src="[https://example.com/badge1.png](https://github.com/AiMegos-AgentsInfinite/vamsi-github.io/blob/b0cae45ab7366289c7e8bb4533494d9f75432c83/EN_MDAC_VIP_BADGE_CLAUDE.png)" alt="BADGE_CLAUDE">
   <img src="https://example.org/badge2.jpg" alt="Badge 2 Description">
   <!-- Add more image tags for additional badges -->
 </section>
