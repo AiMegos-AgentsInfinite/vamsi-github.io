@@ -13,8 +13,8 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 - **Over 6 years of hands-on experience in Artificial Intelligence and Machine Learning**, plus **3+ years in Generative AI**.
   
 - **Microsoft Azure AI Certified AI Engineer Associate**
-- AI Strategy & Governance, AI for Business - Wharton Online.
-- Implementing Microsoft's Responsible AI principles: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
+- **AI Strategy & Governance, AI for Business - Wharton Online.**
+- Implementing **Microsoft's Responsible AI principles**: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
 - Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, M365 Copilot.
 - **Power Platform + Power BI + M365 Copilot + Dynamics 365 Copilot + Copilot Studio AI Agents Customizations**
 - **Microsoft Azure AI certified with over 312 badges and 66+ trophies.**
