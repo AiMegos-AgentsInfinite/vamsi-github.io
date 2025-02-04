@@ -133,8 +133,6 @@ This project focuses on human-first AI solutions that drive tangible business va
 
 ## MultiCloud DevOps & AI Challenge Badges
 
-## MultiCloud DevOps & AI Challenge Badges
-
 <div align="left">
 <img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_AWS.png" width="200" height="200" alt="AWS Badge">&nbsp;
 <img src="https://raw.githubusercontent.com/AiMegos-AgentsInfinite/vamsi-github.io/main/EN_MDAC_VIP_BADGE_AZURE.png" width="200" height="200" alt="Azure Badge">&nbsp;
