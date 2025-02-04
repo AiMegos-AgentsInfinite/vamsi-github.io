@@ -17,7 +17,7 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 - **Microsoft Azure AI Certified AI Engineer Associate**
 - **AI Strategy & Governance, AI for Business - Wharton Online.**
 - Implementing **Microsoft's Responsible AI principles**: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
-- Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, Mantas, **Tableau**, MS SQL, M365 Copilot.
+- Vast data analytics experience using Python, **TensorFlow**, PyTorch, Keras, Scikit-learn, Hugging Face **Transformers**. Microsoft AutoML, DataRobot, Mantas, **Tableau**, MS SQL, **M365 & D365 Copilots**.
 - **Power Platform + Power BI + M365 Copilot + Dynamics 365 Copilot + Copilot Studio AI Agents Customizations**
 - **Microsoft Azure AI certified with over 312 badges and 66+ trophies.**
 - **Salesforce Trailhead Mountaineer: 37 Badges 30,750 Points 5 Trails**, includes **AgentForce and Einstein Copilot**
