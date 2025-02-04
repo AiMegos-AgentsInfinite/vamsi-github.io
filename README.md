@@ -134,7 +134,7 @@ This project focuses on human-first AI solutions that drive tangible business va
 <section id="MultiCloud-DevOps-AI-Challenge-Badges">
   <h2>MultiCloud DevOps &amp; AI Challenge Badges</h2>
   <div class="badge-container">
-    <img class="badge-image" src="https://github.com/AiMegos-AgentsInfinite/vamsi-github.io/blob/b0cae45ab7366289c7e8bb4533494d9f75432c83/EN_MDAC_VIP_BADGE_CLAUDE.png" alt="Anthropic Claude AI">
+    <img class="badge-image" src="https://github.com/AiMegos-AgentsInfinite/vamsi-github.io/blob/b0cae45ab7366289c7e8bb4533494d9f75432c83/EN_MDAC_VIP_BADGE_CLAUDE.png" alt="BADGE_CLAUDE">
     <!-- Add more image tags for additional badges -->
   </div>
 </section>
@@ -147,7 +147,7 @@ This project focuses on human-first AI solutions that drive tangible business va
   }
 
   .badge-image {
-    max-width: 100%;
+    max-width: 150px; /* Adjust this value as needed */
     height: auto;
     margin: 10px;
   }
