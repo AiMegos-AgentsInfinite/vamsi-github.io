@@ -131,6 +131,13 @@ This project focuses on human-first AI solutions that drive tangible business va
 - PromptAlchemy (Public)
 - Logo-Alchemy-AI (Public)
 
+<section id="MultiCloud DevOps & AI Challenge Badges">
+  <h2>Professional Badges</h2>
+  <img src="https://example.com/badge1.png" alt="Badge 1 Description">
+  <img src="https://example.org/badge2.jpg" alt="Badge 2 Description">
+  <!-- Add more image tags for additional badges -->
+</section>
+
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
 - [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
