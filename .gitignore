@@ -1,0 +1,5 @@
+# Ignore the .github/workflows folder
+.github/workflows/
+
+# Ignore all .png files
+*.png
