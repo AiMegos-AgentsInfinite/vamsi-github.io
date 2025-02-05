@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Check out the public repository
+      # Step 1: Check out the public repository (docs as source)
       - name: Check out the public repository
         uses: actions/checkout@v2
         with:
@@ -24,29 +24,28 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
 
-      # Step 3: Print current directory and list files
-      - name: Print current directory
-        run: pwd
-      - name: List files in current directory before copying
-        run: ls -la
-
-      # Step 4: Clone the private repository
+      # Step 3: Clone the private repository
       - name: Clone the private repository
         env:
           PAT: ${{ secrets.PAT }}
         run: |
           git clone https://$PAT@github.com/VamK2/FilestoHide.git private-repo
+
+      # Step 4: List files in private repository for debugging
       - name: List files in private repository
         run: ls -la private-repo
 
-      # Step 5: Copy files from private repository to public repository
-      - name: Copy files from private repository
+      # Step 5: Copy files from private repository to docs directory
+      - name: Copy files to docs directory
         run: |
-          rsync -a private-repo/ . # Use rsync to copy all files, including hidden ones
-      - name: List files in current directory after copying
-        run: ls -la
+          mkdir -p docs
+          rsync -a private-repo/ docs/
 
-      # Step 6: Pull the latest changes from the public repository
+      # Step 6: List files in docs directory after copying
+      - name: List files in docs directory
+        run: ls -la docs
+
+      # Step 7: Pull latest changes from remote to avoid conflicts
       - name: Pull latest changes from remote
         env:
           PAT: ${{ secrets.PAT }}
@@ -54,7 +53,7 @@ jobs:
           git remote set-url origin https://$PAT@github.com/AiMegos-AgentsInfinite/vamsi-github.io.git
           git pull --rebase origin main
 
-      # Step 7: Commit and push changes
+      # Step 8: Commit and push changes to the public repository
       - name: Commit and push changes
         env:
           PAT: ${{ secrets.PAT }}
