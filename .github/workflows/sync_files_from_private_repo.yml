@@ -40,9 +40,10 @@ jobs:
           cp -R private-repo/* .
 
       - name: Commit and push changes
-        run: |
-          git add .
-          git commit -m "Sync files from private repository"
-          git push https://$PAT@github.com/AiMegos-AgentsInfinite/vamsi-github.io.git HEAD:main
         env:
           PAT: ${{ secrets.PAT }}
+        run: |
+          git remote set-url origin https://$PAT@github.com/AiMegos-AgentsInfinite/vamsi-github.io.git
+          git add .
+          git commit -m "Sync files from private repository"
+          git push origin main
