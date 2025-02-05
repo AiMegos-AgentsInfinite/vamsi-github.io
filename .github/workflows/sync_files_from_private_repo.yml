@@ -12,38 +12,41 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Check out the public repository
       - name: Check out the public repository
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
 
+      # Step 2: Set up Git
       - name: Set up Git
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
 
+      # Step 3: Print current directory and list files
       - name: Print current directory
         run: pwd
-
       - name: List files in current directory before copying
         run: ls -la
 
+      # Step 4: Clone the private repository
       - name: Clone the private repository
         env:
           PAT: ${{ secrets.PAT }}
         run: |
           git clone https://$PAT@github.com/VamK2/FilestoHide.git private-repo
-          
       - name: List files in private repository
         run: ls -la private-repo
 
+      # Step 5: Copy files from private repository to public repository
       - name: Copy files from private repository
         run: |
-          rsync -a private-repo/ .
-
+          rsync -a private-repo/ . # Use rsync to copy all files, including hidden ones
       - name: List files in current directory after copying
         run: ls -la
 
+      # Step 6: Pull the latest changes from the public repository
       - name: Pull latest changes from remote
         env:
           PAT: ${{ secrets.PAT }}
@@ -51,6 +54,7 @@ jobs:
           git remote set-url origin https://$PAT@github.com/AiMegos-AgentsInfinite/vamsi-github.io.git
           git pull --rebase origin main
 
+      # Step 7: Commit and push changes
       - name: Commit and push changes
         env:
           PAT: ${{ secrets.PAT }}
