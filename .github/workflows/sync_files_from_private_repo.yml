@@ -43,11 +43,17 @@ jobs:
       - name: List files in current directory after copying
         run: ls -la
 
-      - name: Commit and push changes
+      - name: Pull latest changes from remote
         env:
           PAT: ${{ secrets.PAT }}
         run: |
           git remote set-url origin https://$PAT@github.com/AiMegos-AgentsInfinite/vamsi-github.io.git
+          git pull origin main
+
+      - name: Commit and push changes
+        env:
+          PAT: ${{ secrets.PAT }}
+        run: |
           git add .
           git commit -m "Sync files from private repository"
           git push origin main
