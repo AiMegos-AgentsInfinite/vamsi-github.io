@@ -43,6 +43,9 @@ jobs:
       - name: List files in current directory after copying
         run: ls -la
 
+      - name: Clean untracked files
+        run: git clean -fd
+
       - name: Pull latest changes from remote
         env:
           PAT: ${{ secrets.PAT }}
