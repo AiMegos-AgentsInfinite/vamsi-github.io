@@ -156,7 +156,7 @@ This project focuses on human-first AI solutions that drive tangible business va
   <img src="https://drive.google.com/uc?export=view&id=1kczKczacBseCrpoih_J3eYKwa6qsPBbB" width="200" height="200" alt="Kubernetes Badge">&nbsp;
   <img src="https://drive.google.com/uc?export=view&id=1K70vk6s2ihd5RhvJqUi8ug4a5bppM_PI" width="200" height="200" alt="Terraform Badge">
 </div>
-
+---
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
 - [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
