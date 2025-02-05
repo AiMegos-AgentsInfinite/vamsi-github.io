@@ -57,7 +57,7 @@ I thrive on challenges and am keen to connect with like-minded professionals and
 
 ### 💻 Technical Expertise
 - **AI/ML:** Gen AI, AI MultiAgents, AiBots, Deep Learning, TinyML
-- **Cloud & Tools:** Microsoft Azure OpenAI, Microsfot Power Automate, Power Apps Azure, Microsoft Power Bi, Microsoft IoT, Azure DevOps
+- **Cloud & Tools:** Microsoft Azure OpenAI, Microsfot Power Automate, Power Apps Azure, Microsoft Power Bi, Microsoft IoT, Azure DevOps, **Docker**, **Kubernetes**
 - **Development:** Python, C#, .NET Framework, Selenium, RestSharp API
 - **Platforms:** Power Platform, Power Apps, Power BI, Microsoft Copilot Studio, M365 Copilot, Microfost Dynamics 365 Copilot, Poe.
 - **Specialties:** Computer Vision, NLP, RPA, QA Automation
