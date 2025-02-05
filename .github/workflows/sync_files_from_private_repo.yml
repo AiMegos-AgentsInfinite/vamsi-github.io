@@ -1,0 +1,37 @@
+name: Sync Files from Private Repo
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # This will run the workflow daily at midnight
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the public repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+
+      - name: Clone the private repository
+        env:
+          PAT: ${{ secrets.PAT }}
+        run: |
+          git clone https://$PAT@github.com/VamK2/FilestoHide.git private-repo
+          
+      - name: Copy files from private repository
+        run: |
+          cp -R private-repo/* .
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Sync files from private repository"
+          git push
