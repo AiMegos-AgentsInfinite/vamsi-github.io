@@ -171,4 +171,4 @@ This project focuses on human-first AI solutions that drive tangible business va
 - [Email](mailto:vamsi@aimegos.com)
 - [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
 - [Salesforce Trailhead Mountaineer](https://www.salesforce.com/trailblazer/vkethu)
-**
+
