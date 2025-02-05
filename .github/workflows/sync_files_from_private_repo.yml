@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *' # This will run the workflow daily at midnight
+    - cron: '0 0 * * *' # Run daily at midnight
 
 jobs:
   sync:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Check out the public repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Set up Git
         run: |
@@ -37,14 +39,10 @@ jobs:
 
       - name: Copy files from private repository
         run: |
-          shopt -s dotglob  # Ensure hidden files are included
-          cp -R private-repo/* .
+          rsync -a private-repo/ .
 
       - name: List files in current directory after copying
         run: ls -la
-
-      - name: Clean untracked files
-        run: git clean -fd
 
       - name: Pull latest changes from remote
         env:
@@ -58,5 +56,5 @@ jobs:
           PAT: ${{ secrets.PAT }}
         run: |
           git add .
-          git commit -m "Sync files from private repository"
+          git commit -m "Sync files from private repository" || echo "No changes to commit"
           git push origin main
