@@ -158,8 +158,8 @@ This project focuses on human-first AI solutions that drive tangible business va
 </div>
 
 ### Agentic AI
-<div align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1srotodYDHP2Nf_wDPtXxYgzdFhY2mOOL" width="200" height="200" alt="Agentic AI Badge">
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1srotodYDHP2Nf_wDPtXxYgzdFhY2mOOL" style="width: 100%;" alt="Agentic AI Badge">
 </div>
 
 ---
