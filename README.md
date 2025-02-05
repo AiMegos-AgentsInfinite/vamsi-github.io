@@ -139,22 +139,22 @@ This project focuses on human-first AI solutions that drive tangible business va
 
 ### Generative AI in Cloud Platforms
 <div align="left">
-  <img src="https://drive.google.com/uc?export=view&id=FILE_ID_AWS" width="200" height="200" alt="AWS Badge">&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=FILE_ID_AZURE" width="200" height="200" alt="Azure Badge">&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=FILE_ID_GCP" width="200" height="200" alt="GCP Badge">
+  <img src="https://drive.google.com/uc?export=view&id=1NTlYJ43UiH6RyrvlAlnceMF-j4_b1GIi" width="200" height="200" alt="AWS Badge">&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1-hwjEqRWk2ZSub_idnqkdGVBB826l-Nc" width="200" height="200" alt="Azure Badge">&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1PJgeRMX-DKsfvILxvtZJS-WjTEGTWxFW" width="200" height="200" alt="GCP Badge">
 </div>
 
 ### Generative AI & Machine Learning Innovations
 <div align="left">
-  <img src="https://drive.google.com/uc?export=view&id=FILE_ID_CLAUDE" width="200" height="200" alt="Claude AI Badge">&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=FILE_ID_OPENAI" width="200" height="200" alt="OpenAI Badge">
+  <img src="https://drive.google.com/uc?export=view&id=1k94lgzAbZwOCR5M_Xsk_4pNuLAQxn3mD" width="200" height="200" alt="Claude AI Badge">&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1y6iMorGnmLm5jr6n8ldWQDM3ls8APjGT" width="200" height="200" alt="OpenAI Badge">
 </div>
 
 ### Generative AI in DevOps Tools
 <div align="left">
-  <img src="https://drive.google.com/uc?export=view&id=FILE_ID_DOCKER" width="200" height="200" alt="Docker Badge">&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=FILE_ID_KUBERNETES" width="200" height="200" alt="Kubernetes Badge">&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=FILE_ID_TERRAFORM" width="200" height="200" alt="Terraform Badge">
+  <img src="https://drive.google.com/uc?export=view&id=1LMKrth0-GEBEKYKoSc27HlkiwSSNAfcR" width="200" height="200" alt="Docker Badge">&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1kczKczacBseCrpoih_J3eYKwa6qsPBbB" width="200" height="200" alt="Kubernetes Badge">&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1K70vk6s2ihd5RhvJqUi8ug4a5bppM_PI" width="200" height="200" alt="Terraform Badge">
 </div>
 
 ## 📫 Connect With Me
