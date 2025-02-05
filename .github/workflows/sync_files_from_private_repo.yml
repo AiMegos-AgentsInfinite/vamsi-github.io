@@ -23,7 +23,7 @@ jobs:
       - name: Print current directory
         run: pwd
 
-      - name: List files in current directory
+      - name: List files in current directory before copying
         run: ls -la
 
       - name: Clone the private repository
@@ -37,7 +37,11 @@ jobs:
 
       - name: Copy files from private repository
         run: |
+          shopt -s dotglob  # Ensure hidden files are included
           cp -R private-repo/* .
+
+      - name: List files in current directory after copying
+        run: ls -la
 
       - name: Commit and push changes
         env:
