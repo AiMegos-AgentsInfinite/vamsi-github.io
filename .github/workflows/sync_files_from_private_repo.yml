@@ -20,12 +20,21 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
 
+      - name: Print current directory
+        run: pwd
+
+      - name: List files in current directory
+        run: ls -la
+
       - name: Clone the private repository
         env:
           PAT: ${{ secrets.PAT }}
         run: |
           git clone https://$PAT@github.com/VamK2/FilestoHide.git private-repo
           
+      - name: List files in private repository
+        run: ls -la private-repo
+
       - name: Copy files from private repository
         run: |
           cp -R private-repo/* .
@@ -35,3 +44,5 @@ jobs:
           git add .
           git commit -m "Sync files from private repository"
           git push
+        env:
+          PAT: ${{ secrets.PAT }}
