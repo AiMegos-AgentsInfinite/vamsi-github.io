@@ -169,7 +169,7 @@ This project focuses on human-first AI solutions that drive tangible business va
 - [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
 - [Salesforce Trailhead Mountaineer](https://www.salesforce.com/trailblazer/vkethu)
 - [Agentic AI Empowerment Hub](https://github.com/AiMegos-AgentsInfinite/Agentic-AI-Empowerment-Hub)
-- [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
+- [AgentsInfinite | AiMegos](https://aimegos.com/)
 - [Contact Me](mailto:vamsi@aimegos.com)
 
 
