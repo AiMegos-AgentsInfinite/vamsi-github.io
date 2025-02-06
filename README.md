@@ -124,17 +124,17 @@ A Generative AI assistant creating visually engaging, cinematic-quality company 
 This project focuses on human-first AI solutions that drive tangible business value, aiming to ascend beyond limits and expectations.
 
 ## 📚 Repositories
+- PromptAlchemy (Public)
+- Logo-Alchemy-AI (Public)
 - microsoft-predictive-ai-lab (Public)
 - microsoft-azure-ai-predictive-solutions (Public)
+- readmeContracts (Public)
 - Agentic-AI-Empowerment-Hub (Private)
 - autmavoice.agentsInfinite (Private)
 - automacrew.agentsInfinite (Private)
 - automalite.agentsInfinite (Private)
 - automa.agentsInfinite (Private)
 - vectorkrew.agentsInfinite (Private)
-- readmeContracts (Public)
-- PromptAlchemy (Public)
-- Logo-Alchemy-AI (Public)
 
 ## 🌟 **Professional Achievements - MultiCloud DevOps & AI VIP Challenge 2025 Badges**
 
