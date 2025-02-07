@@ -158,7 +158,7 @@ This project focuses on human-first AI solutions that drive tangible business va
   <img src="https://drive.google.com/uc?export=view&id=1K70vk6s2ihd5RhvJqUi8ug4a5bppM_PI" width="200" height="200" alt="Terraform Badge">
 </div>
 
-### Agentic AI
+### Agentic AI - Agentic-AI-Empowerment-Hub (Private)
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1srotodYDHP2Nf_wDPtXxYgzdFhY2mOOL" style="width: 100%;" alt="Agentic AI Badge">
 </div>
