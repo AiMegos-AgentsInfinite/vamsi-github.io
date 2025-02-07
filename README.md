@@ -25,7 +25,7 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 - **AI in QA Testing and Automation**
 - **LLMs Benchmarking: Thoughtful QA, HellaSWAG, MMLU, GPQA, CodexGlue, BLEU, HumanEval**
 - Received training in **TOGAF**, **Zachman** Architecture Frameworks.
-- **13 Tricentis TOSCA Certificationss, including Tricentis** **TOSCA Architecture and RPA Certification**.
+- **13 Tricentis TOSCA Certifications, including Tricentis** **TOSCA Architecture and RPA Certifications**.
 - Automation and Testing: **RPA Automation** using various tools and frameworks
 - Expertise: Computer Vision, AFS Vision, GIS, Esri, PolarisWeb, ArcGIS.
 - Skills: **KYC**, **AML**, **Fraud Detection**, Churn & Loan Default Prediction, **ACH / NACHA**, **Fedwire**, Credit Card Processing.
