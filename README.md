@@ -12,7 +12,7 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
 
 ## Key Expertise:
 
-- **Over 6 years of hands-on experience in Artificial Intelligence and Machine Learning**, plus **3+ years in Generative AI**.
+- **Over 7 years of hands-on experience in Artificial Intelligence and Machine Learning**, plus **4+ years in Generative AI**.
   
 - **Microsoft Azure AI Certified AI Engineer Associate**
 - **AI Strategy & Governance, AI for Business - Wharton Online.**
